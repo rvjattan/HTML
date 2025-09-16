@@ -4,22 +4,22 @@ This repository contains a collection of HTML projects I created while learning 
 
 **Projects**
 
-Event Hub - A page that displays the past and upcoming events.
-Hotel Feedback Form - A page that helps to record reviews from the customers
-Survey Form - A basic survey form for freeCodeCamp
-Grade Table - A page that contains grade information of a class in table form
-Book Catalogue - A page that contains data about books that a store currently holds in inventory
-Checkout Page - A simple checkout page
-Movie Review - A page that contains moviereview along with "aria" elements
-Multimedia Page - A page that contains audio & video elements.
+- Event Hub - A page that displays the past and upcoming events.
+- Hotel Feedback Form - A page that helps to record reviews from the customers
+- Survey Form - A basic survey form for freeCodeCamp
+- Grade Table - A page that contains grade information of a class in table form
+- Book Catalogue - A page that contains data about books that a store currently holds in inventory
+- Checkout Page - A simple checkout page
+- Movie Review - A page that contains moviereview along with "aria" elements
+- Multimedia Page - A page that contains audio & video elements.
 
 **Purpose**
 
 These projects were built to practice and reinforce HTML skills, including:
 
-Learning HTML elements
-Adding audio/video/images elements
-ARIA elements
+- Learning HTML elements
+- Adding audio/video/images elements
+- ARIA elements
 
 **Contributions**
 
